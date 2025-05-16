@@ -29,4 +29,6 @@ A customizable, stateful chatbot powered by OpenAI's GPT models. It remembers pr
    git clone https://github.com/your-username/personal-ai-chatbot.git
    cd personal-ai-chatbot
 
-### Remarks: remember to pip install -r requirements.txt
+### Remarks: 
+   - remember to pip install -r requirements.txt
+   - replace API_KEY in .env
