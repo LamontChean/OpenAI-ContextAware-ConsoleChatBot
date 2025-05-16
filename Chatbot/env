@@ -1,0 +1,2 @@
+OPENAI_API_KEY="<Replace By Your API Key Here>"
+HISTORY_PATH="./chat_history.json"
